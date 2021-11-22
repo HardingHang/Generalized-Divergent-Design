@@ -1,0 +1,6 @@
+lz4
+numpy
+pandas
+psycopg2-binary
+psqlparse
+scikit-learn
